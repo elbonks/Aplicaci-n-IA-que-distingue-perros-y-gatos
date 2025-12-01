@@ -1,1 +1,5 @@
-
+tensorflow==2.15
+tf_keras
+streamlit
+pillow
+numpy
