@@ -43,7 +43,7 @@ if imagen_camara is not None:
 
     st.divider()
 
-    if "Perro" in etiqueta:
+    if "perro" in etiqueta:
         st.success("¡Es un **PERRO**! 🐶")
         st.balloons()
     else:
